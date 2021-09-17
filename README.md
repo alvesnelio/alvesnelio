@@ -1,34 +1,28 @@
-<!--
-**alvesdnelio/alvesdnelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, Eu me chamo Nélio Alves 😄
+### Quem sou eu 💬
 
-Here are some ideas to get you started:
+Jovem cristão, apaixonado por tecnologias, sites, aplicativos, linguagem de programação e universo geek. <br>
+Graduado no curso superior de tecnologia de analise e desenvolvimento de sistemas pela FATEC 2015/2018.
 
-- 🔭 Atualmente estou trabalhando para a empresa Assembléia Legislativa de Mato Grosso e LogLab Inteligencia Digital...
-- 🌱 Atualemnte estou aprendendo novas tecnologias como React, Node, Angular e Symfony 5...
-- 👯 .........
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Contato. 📫
 
-[<img align="left" alt="Apache NetBeans IDE" width="26px" src="https://netbeans.apache.org/images/apache-netbeans.svg" />](https://netbeans.apache.org/)
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />](https://www.php.net/)
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://pt.wikipedia.org/wiki/SQL)
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
-[<img align="left" alt="PHPUnit" width="60px" src="https://phpunit.de/img/phpunit.png" />](https://phpunit.de)
-[<img align="left" alt="Behat" width="60px" src="https://raw.githubusercontent.com/Behat/logo/master/logo.png" />](https://docs.behat.org/)
-[<img align="left" alt="Composer" width="26px" src="https://getcomposer.org/img/logo-composer-transparent.png" />](https://getcomposer.org/)
-[<img align="left" alt="Deployer" width="26px" src="https://camo.githubusercontent.com/9ede45247a5c7fa51118649fcd3765d6121eded0/68747470733a2f2f6d6564762e696f2f6173736574732f6465706c6f7965722f6c6f676f2e706e67" />](https://deployer.org/)
--->
+> Para entrar em contato comigo, segue abaixo algumas formas.
 
-### Nélio Souza Alves
+- *Whatsapp:* [Mensagem](https://api.whatsapp.com/send?phone={{5565984152525}})
+- *Telegram:* [Mensagem](https://telegram.me/alvesnelio)
+- *E-mail:* [Gmail](mailto:nelio13alves@gmail.com)
+- *Website:* ~~[nelioalves](https://www.nelioalves.com.br)~~
 
-##### Conhecimentos
+### Blog. 💬
+
+> Alguns posts sobre algum assunto.
+
+- *Medium:* [@alvesnelio](https://alvesnelio.medium.com/)
+- *Linkedin:* [@alvesnelio](https://www.linkedin.com/in/alvesnelio/)
+
+### Habilidades.
+
+> Algumas de minhas habilidades para trabalho.
 
 [<img align="left" alt="CSS3" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
 
@@ -42,6 +36,12 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Javascript" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://pt.wikipedia.org/wiki/JavaScript)
 
-<!-- [<img align="left" alt="JavaScript" height="30px" src="" />](https://pt-br.reactjs.org/) -->
-
 [<img align="left" alt="JQuery" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />](https://pt.wikipedia.org/wiki/JQuery)
+
+[<img align="left" alt="Docker" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/250px-Docker_%28container_engine%29_logo.svg.png" />](https://pt.wikipedia.org/wiki/Docker)
+
+[<img align="left" alt="PHP" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png" />](https://pt.wikipedia.org/wiki/PHP)
+
+[<img align="left" alt="Symfony" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Symfony2.svg/220px-Symfony2.svg.png" />](https://pt.wikipedia.org/wiki/Symfony)
+
+[<img align="left" alt="Behat" width="60px" src="https://raw.githubusercontent.com/Behat/logo/master/logo.png" />](https://docs.behat.org/)
