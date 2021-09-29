@@ -4,6 +4,12 @@
 Jovem cristão, apaixonado por tecnologias, sites, aplicativos, linguagem de programação e universo geek. <br>
 Graduado no curso superior de tecnologia de analise e desenvolvimento de sistemas pela FATEC 2015/2018.
 
+### Curriculum 💬
+
+> Acesse o link abaixo para visualizar o meu curriculum.
+
+- [Visualizar CV](https://alvesnelio.github.io/jekyll-cv/)
+
 ### Contato. 📫
 
 > Para entrar em contato comigo, segue abaixo algumas formas.
