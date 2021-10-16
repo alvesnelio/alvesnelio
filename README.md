@@ -8,7 +8,8 @@ Graduado no curso superior de tecnologia de analise e desenvolvimento de sistema
 
 > Acesse o link abaixo para visualizar o meu curriculum.
 
-- [Visualizar CV](https://alvesnelio.github.io/jekyll-cv/)
+- *Linkedin:* [@alvesnelio](https://www.linkedin.com/in/alvesnelio/)
+- *Curriculum Vitae resumido:* [alvesnelio/jekyll-cv](https://alvesnelio.github.io/jekyll-cv/)
 
 ### Contato. 📫
 
@@ -24,7 +25,6 @@ Graduado no curso superior de tecnologia de analise e desenvolvimento de sistema
 > Alguns posts sobre algum assunto.
 
 - *Medium:* [@alvesnelio](https://alvesnelio.medium.com/)
-- *Linkedin:* [@alvesnelio](https://www.linkedin.com/in/alvesnelio/)
 
 ### Habilidades.
 
