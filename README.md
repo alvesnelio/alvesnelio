@@ -9,7 +9,6 @@ Graduado no curso superior de tecnologia de analise e desenvolvimento de sistema
 > Acesse o link abaixo para visualizar o meu curriculum.
 
 - *Linkedin:* [@alvesnelio](https://www.linkedin.com/in/alvesnelio/)
-- *Curriculum completo:* [Baixar perfil do linkedin](https://www.linkedin.com/ambry/?x-li-ambry-ep=AQFfjBmtZrlrZQAAAXyLXeYahNautCIwwKwzP8kAB-dmviK6McXFldlKnwDyMBgkiNIPQbjJqPPQDTVqdfwktSA-K7ly00Cx8GyuQyc-4HGlfbDrxM3lfiuGexEP615xyt7wvIxM907YAzHDIWWCp6yWtN5qm8DnbrszdHtcGIK8AI3Dn3NO-CShP_W-XG89SI8fl6xjkDIFRNgFWTuJBCKTJcVtaiv6F0fBfBYZdZSMaTkZxBfusw4lX23QFak-K1dYLooczRVBfQP_GPac_ikvRPZjINoA91fNHdOtwj4L-6SoSTOSJxjpwweFAEaUAFTXqbsur_z8G_SshR7xsMRGdmysXZWFCne9JsXBT5zavgI0STbuBu5E2Kpzr8j4Wkm9gtKQ-5GAubHsRrhBU0PEUAhzfFlLcb_ASFM_HdzeG6EkvwX0f4l8LoZG0PiUNcd4nOd4aon1srFpAxlm3aLEHbTqhuNCTTF_WutJbPWcIznkbNIdPt-Wt7z7oJhgEYnYPOXDbX5oHJM8humSFg&x-ambry-um-filename=Profile.pdf)
 - *Curriculum resumido:* [Visualizar site](https://alvesnelio.github.io/jekyll-cv/)
 
 ### Contato. 📫
