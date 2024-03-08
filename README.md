@@ -9,14 +9,14 @@ Graduado no curso superior de tecnologia de analise e desenvolvimento de sistema
 > Acesse o link abaixo para visualizar o meu curriculum.
 
 - *Linkedin:* [@oalvesnelio](https://www.linkedin.com/in/oalvesnelio/)
-- *Curriculum resumido:* [Visualizar site](https://alvesnelio.github.io/jekyll-cv/)
+- *Curriculum resumido:* [Visualizar site](https://oalvesnelio.github.io/jekyll-cv/)
 
 ### Contato. 📫
 
 > Para entrar em contato comigo, segue abaixo algumas formas.
 
 - *Whatsapp:* [Mensagem](https://api.whatsapp.com/send?phone={{5565999971751}})
-- *Telegram:* [Mensagem](https://telegram.me/alvesnelio)
+- *Telegram:* [Mensagem](https://telegram.me/oalvesnelio)
 - *E-mail:* [Gmail](mailto:nelio13alves@gmail.com)
 - *Website:* ~~[nelioalves](https://www.nelioalves.com.br)~~
 
@@ -24,7 +24,7 @@ Graduado no curso superior de tecnologia de analise e desenvolvimento de sistema
 
 > Alguns posts sobre algum assunto.
 
-- *Medium:* [@alvesnelio](medium.com/@oalvesnelio)
+- *Medium:* [@oalvesnelio](medium.com/@oalvesnelio)
 
 ### Habilidades.
 
