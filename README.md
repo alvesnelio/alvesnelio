@@ -24,7 +24,7 @@ Graduado no curso superior de tecnologia de analise e desenvolvimento de sistema
 
 > Alguns posts sobre algum assunto.
 
-- *Medium:* [@oalvesnelio](medium.com/@oalvesnelio)
+- *Medium:* [@oalvesnelio](https://oalvesnelio.medium.com/)
 
 ### Habilidades.
 
